@@ -8,3 +8,5 @@
 + [jansson](https://github.com/akheron/jansson)
 + [boost](http://www.boost.org/)
 + [netbsd](https://www.netbsd.org/)
+
+### 能编译但是登录会提示 "服务器返回的信息不正确,原因不明" 猜测是这几年b站的后端协议发生了修改...
