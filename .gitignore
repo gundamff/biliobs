@@ -1,2 +1,19 @@
 
 *.pdb
+build
+biliobs/.vs
+base/base.vcxproj.user
+biliobs/Debug
+biliobs/GeneratedFiles
+biliobs/Release
+biliobs/biliobs.vcxproj.user
+libobs/libobs.vcxproj.user
+libobs-d3d11/libobs-d3d11.vcxproj.user
+libobs-opengl/libobs-opengl.vcxproj.user
+tools/copy_deps_release.bat
+tools/copy_deps_release.bat
+tools/copy_deps_release.bat
+*.user
+plugins/decklink/win/DeckLinkAPI.h
+plugins/decklink/win/DeckLinkAPI.tlb
+plugins/decklink/win/DeckLinkAPI_i.c

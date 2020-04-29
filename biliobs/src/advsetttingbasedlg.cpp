@@ -1,5 +1,6 @@
 #include "advsetttingbasedlg.h"
 #include <QMouseEvent>
+#include <QButtonGroup>
 
 AdvSetttingBaseDlg::AdvSetttingBaseDlg(QWidget *parent)
 	: QDialog(parent),

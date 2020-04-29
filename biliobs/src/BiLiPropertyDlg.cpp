@@ -6,6 +6,7 @@
 #include <QLineEdit>
 #include <QCheckBox>
 #include <QComboBox>
+#include <QAction>
 #include <QPlainTextEdit>
 #include "BiLiApp.h"
 #include "BiLiMsgDlg.h"
